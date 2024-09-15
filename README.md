@@ -20,8 +20,8 @@ Follow these steps to set up the project locally.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/rzw-gh/django-portfolio.git
+cd django-portfolio
 ```
 
 ### 1. Create and activate a virtual environment
